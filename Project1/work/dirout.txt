@@ -1,0 +1,28 @@
+ 驱动器 D 中的卷是 Data
+ 卷的序列号是 3E6B-968C
+
+ D:\workspace\Project1\work 的目录
+
+2016/06/19  00:36    <DIR>          .
+2016/06/19  00:36    <DIR>          ..
+2016/06/16  14:39             8,916 addLines.jar
+2016/06/16  14:39            10,273 avgFile.jar
+2016/06/20  22:28                 6 avgout.txt
+2016/06/20  22:30                 6 avgout1.txt
+2016/06/16  14:39               201 batch1.unix.xml
+2016/06/16  14:39               214 batch1.xml
+2016/06/16  14:39               373 batch2.unix.xml
+2016/06/16  14:39               370 batch2.xml
+2016/06/16  14:39               341 batch3.xml
+2016/06/16  14:39               318 batch4.xml
+2016/06/16  14:39               342 batch5.broken.xml
+2016/06/16  14:39                88 cleanup.bat
+2016/06/20  22:30                 0 dirout.txt
+2016/06/20  22:30                 0 error.txt
+2016/06/16  14:39               704 numberdata.txt
+2016/06/16  14:39             1,128 randomwords.txt
+2016/06/19  22:24             1,130 reversesort.txt
+2016/06/19  22:24             1,130 sortedwords.txt
+2016/06/19  22:24               132 sumout.txt
+              19 个文件         25,672 字节
+               2 个目录 334,439,976,960 可用字节
